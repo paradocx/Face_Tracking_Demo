@@ -1,2 +1,4 @@
 # Face_Tracking_Demo
-Face_Tracking_Demo with GUI 2D/3D
+Face_Tracking_Demo with GUI for Image/Video
+
+#Requirment: OpenCV and Qt
